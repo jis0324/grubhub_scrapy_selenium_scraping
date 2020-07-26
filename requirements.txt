@@ -1,0 +1,5 @@
+guppy==0.1.10
+selenium
+bs4
+requests
+
